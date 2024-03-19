@@ -1,9 +1,10 @@
-### Hi there 👋
+<h2 align="center">Hello! I am Takami</h2>
 
-<!--
-**takamilinagaki/takamilinagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <a href="www.linkedin.com/in/takamiinagaki/">
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+<a href="www.linkedin.com/in/takamiinagaki/">
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/instagram%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
