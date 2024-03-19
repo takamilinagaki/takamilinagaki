@@ -1,10 +1,14 @@
 <h2 align="center">Hello! I am Takami</h2>
 
- <a href="www.linkedin.com/in/takamiinagaki/">
+<p align="center">
+  <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="www.linkedin.com/in/takamiinagaki/">
+  <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/instagram%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+  <br/>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
