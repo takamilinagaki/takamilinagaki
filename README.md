@@ -1,11 +1,12 @@
-<h2 align="center">Hello! I am Takami</h2>
+<h1 align="center">Hello! I am Takami</h1>
+<p>I am developer, designer, digital marketer who is passion about helping peoplee</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/instagram%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-%23EEE4D3"/></a>
 
   <br/>
 </p>
