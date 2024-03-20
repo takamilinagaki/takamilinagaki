@@ -10,9 +10,8 @@
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
 
-  <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="instagram" title="Portfolio" src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=Instagram&logoColor=black&color=pink&link=https%3A%2F%2Fwww.instagram.com%2Fhappy.luuna7%2F"/></a>
-  <br width="60%"/>
+
+  <br/>
 </p>
 
 <p>
