@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I am Takami🌝</h1>
 <p align="center">I am a developer, designer, digital marketer</p>
-<p align="center">I am currently working on improving my development skills</p>
+<p align="center">I am currently working on improving my development skills!!</p>
 
 
 <p align="center">
@@ -9,8 +9,6 @@
 
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
-
-
   <br/>
 </p>
 
