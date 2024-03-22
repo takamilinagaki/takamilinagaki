@@ -27,7 +27,10 @@
     <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/jquery-white?style=flat&logo=jquery&logoColor=0965A7&color=F5F5F5"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/jquery-white?style=flat&logo=bootstrap&logoColor=white&color=7B12F2"></a>
-
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/cypress-white?style=flat&logo=cypress&logoColor=white&color=54D29B"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/node.js-black?style=flat&logo=nodedotjs&logoColor=666861&color=8BC502"></a>
+   <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
+   
 </p>
 
 
