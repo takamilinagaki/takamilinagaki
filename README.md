@@ -11,7 +11,7 @@
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
   
   <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fhappy.luuna7%2F"/></a>
+  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black&link=https%3A%2F%2Fwww.instagram.com%2F%2F"/></a>
   <br/>
 </p>
 
