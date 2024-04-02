@@ -30,7 +30,7 @@
     <a href=""><img alt="Python" src="https://img.shields.io/badge/wordpress-black?style=flat&logo=wordpress&logoColor=515151&color=white"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
    <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
-   
+      <a href=""><img alt="Python" src="https://img.shields.io/badge/mongoDB-white?logo=MongoDB"></a>
 </p>
 
 
