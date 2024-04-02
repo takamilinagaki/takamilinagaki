@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I am Takami🌝</h1>
-<p align="center">I am a developer, designer, digital marketer</p>
+<p align="center">I am a developer, designer, content creater</p>
 <p align="center">I am currently working on improving my development skills!!</p>
 
 
