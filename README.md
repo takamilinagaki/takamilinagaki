@@ -1,4 +1,4 @@
-<h1>Takami Inagaki!🌷🪷💌🩷</h1>
+<h1>Takami Inagaki</h1>
 
 <p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
 
@@ -12,7 +12,9 @@
 
 [![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
 
-![Static Badge](https://img.shields.io/badge/portfolio-F5C3CB?style=for-the-badge&logoColor=white&labelColor=%20&color=F5C3CB)(https://www.takamiinagaki.com/)
+[![Static Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://www.takamiinagaki.com/)
+
+![Static Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)
 
 
   <a href="www.linkedin.com/in/takamiinagaki/">
