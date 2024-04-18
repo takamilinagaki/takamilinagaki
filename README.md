@@ -1,4 +1,4 @@
-<h1>Takami Inagaki🌷🪷💌🩷</h1>
+<h1>Takami Inagaki!🌷🪷💌🩷</h1>
 
 <p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
 
@@ -10,8 +10,8 @@
 
 <br />
 
-  <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](www.linkedin.com/in/takamiinagaki)
+
 
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
@@ -71,7 +71,7 @@
 <br />
 
 <p>
-  <h2 align='left'> 🎨 Currently Processing.. </h2>
+  <h2 align='left'> ✨ Currently Processing.. </h2>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/nextjs-black?style=flat&logo=nextdotjs&logoColor=white&color=black"></a>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=white&color=FF6D1B"></a>
