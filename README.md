@@ -1,8 +1,8 @@
-
+<h1>Takami Inagaki🌷🪷💌🩷</h1>
 <p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
 
 
-<p align="center">
+
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
@@ -12,11 +12,9 @@
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black&link=https%3A%2F%2Fwww.instagram.com%2F%2F"/></a>
 
-  <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/spotify-F5F5F5?style=for-the-badge&logo=spotify"/>
   </a>
   <br/>
-</p>
+
 
 <p>
   <h2 align='left'> 🔨 Languages / Frameworks </h2>
