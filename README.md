@@ -1,6 +1,5 @@
-<h1 align="center">Hello! I am Takami🌝</h1>
-<p align="center">I am a developer, designer, content creater</p>
-<p align="center">I am currently working on improving my development skills!!</p>
+
+<p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
 
 
 <p align="center">
