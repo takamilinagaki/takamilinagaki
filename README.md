@@ -12,6 +12,8 @@
 
 [![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
 
+![Static Badge](https://img.shields.io/badge/portfolio-F5C3CB?style=for-the-badge&logoColor=white&labelColor=%20&color=F5C3CB)(https://www.takamiinagaki.com/)
+
 
   <a href="www.linkedin.com/in/takamiinagaki/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
