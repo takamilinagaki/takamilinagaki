@@ -10,7 +10,7 @@
 
 <br />
 
-[![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](www.linkedin.com/in/takamiinagaki)
+[![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
 
 
   <a href="www.linkedin.com/in/takamiinagaki/">
