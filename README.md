@@ -1,13 +1,12 @@
 <h1>Takami Inagaki</h1>
 
-<p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
+Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer!
+
 
 <br />
 
-<p>
   🌷 My recent projects: <br />
   🌵 I’m currently learning backend
-</p>
 
 <br />
 
@@ -15,69 +14,45 @@
 [![Static Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://www.takamiinagaki.com/)
 [![Static Badge](https://img.shields.io/badge/instagram-F2B4BE?style=for-the-badge&logo=instagram&logoColor=black&color=FABFC8&cacheSeconds=white)](https://www.instagram.com/happy.luuna7/)
 
-
-  <br/>
-  <br/>
-
-<p>
-  <h2 align='left'> 🔨 Languages / Frameworks </h2>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/nextjs-black?style=flat&logo=nextdotjs&logoColor=white&color=black"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=white&color=FF6D1B"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/css-black?style=flat&logo=css3&logoColor=white&color=1B9FFF"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-black?style=flat&logo=expo&logoColor=black&color=D4D5E6"></a>
-        <a href=""><img alt="Python" src="https://img.shields.io/badge/mongoDB-white?logo=MongoDB"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-%238DFFF8?style=flat&logo=react&logoColor=8DFFF8&color=000230"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/wordpress-black?style=flat&logo=wordpress&logoColor=515151&color=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
-   <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
-</p>
-
-<p>
-  <h2 align='left'> 🖥️ Softwares </h2>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/nextjs-black?style=flat&logo=nextdotjs&logoColor=white&color=black"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=white&color=FF6D1B"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/css-black?style=flat&logo=css3&logoColor=white&color=1B9FFF"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-black?style=flat&logo=expo&logoColor=black&color=D4D5E6"></a>
-        <a href=""><img alt="Python" src="https://img.shields.io/badge/mongoDB-white?logo=MongoDB"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-%238DFFF8?style=flat&logo=react&logoColor=8DFFF8&color=000230"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/wordpress-black?style=flat&logo=wordpress&logoColor=515151&color=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
-   <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
-</p>
+<br/>
 
 
+ ## 🔨 Languages / Frameworks : 
+![Static Badge](https://img.shields.io/badge/Next-black?style=flat-square&logo=nextdotjs&color=black)
+![Static Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Static Badge](https://img.shields.io/badge/HTML-FF6D1B?style=flat-square&logo=html5&logoColor=white&color=FF6D1B)
+![Static Badge](https://img.shields.io/badge/CSS-515151?style=flat-square&logo=css3&logoColor=white&color=3964E8)
+![Static Badge](https://img.shields.io/badge/Javascript-FFD43D?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=FFD43D)
+![Static Badge](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=white&color=3078C6)
+![Static Badge](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/WordPress-515151?style=flat-square&logo=wordpress&logoColor=white&color=515151)
+![Static Badge](https://img.shields.io/badge/jQuery-515151?style=flat-square&logo=jquery&logoColor=white&color=2D66A7)
+![Static Badge](https://img.shields.io/badge/Cypress-515151?style=flat-square&logo=cypress&logoColor=black&color=84D1AA)
+![Static Badge](https://img.shields.io/badge/Boostrap-515151?style=flat-square&logo=bootstrap&logoColor=white&color=6F1CE8)
+![Static Badge](https://img.shields.io/badge/Node.js-515151?style=flat-square&logo=Node.js&logoColor=white&color=97C33C)
+![Static Badge](https://img.shields.io/badge/Express.js%20-%20515151?style=flat-square&logo=express&logoColor=white&color=393939)
+![Static Badge](https://img.shields.io/badge/MongoDB-515151?style=flat-square&logo=mongodb&logoColor=white&color=2B664C)
+![Static Badge](https://img.shields.io/badge/Firebase-515151?style=flat-square&logo=firebase&logoColor=F2A93E&color=FFFBF5)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-515151?style=flat-square&logo=postgresql&logoColor=white&color=3D608E)
+![Static Badge](https://img.shields.io/badge/Passport.js%20-%20515151?style=flat-square&logo=passport&logoColor=50AEE2&color=black)
 
-<p>
-  <h2 align='left'> 🎨 Design </h2>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/nextjs-black?style=flat&logo=nextdotjs&logoColor=white&color=black"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=white&color=FF6D1B"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/css-black?style=flat&logo=css3&logoColor=white&color=1B9FFF"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-black?style=flat&logo=expo&logoColor=black&color=D4D5E6"></a>
-        <a href=""><img alt="Python" src="https://img.shields.io/badge/mongoDB-white?logo=MongoDB"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-%238DFFF8?style=flat&logo=react&logoColor=8DFFF8&color=000230"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/wordpress-black?style=flat&logo=wordpress&logoColor=515151&color=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
-   <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
-</p>
+
+## 🖥️ Softwares :
+![Static Badge](https://img.shields.io/badge/GitHub-%20515151?style=flat-square&logo=github&logoColor=white&color=7762EE)
+![Static Badge](https://img.shields.io/badge/VS%20Code-%20515151?style=flat-square&logo=visualstudiocode&logoColor=53A7E8&color=eeeeee)
+![Static Badge](https://img.shields.io/badge/Vercel%20-%20515151?style=flat-square&logo=vercel&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-%20515151?style=flat-square&logo=androidstudio&logoColor=white&color=507FE5)
+
+
+## 🎨 Design :
+![Static Badge](https://img.shields.io/badge/Adobe%20Creative%20Suite%20-%20515151?style=flat-square&logo=adobecreativecloud&logoColor=white&color=CA3833)
+![Static Badge](https://img.shields.io/badge/Figma%20-%20515151?style=flat-square&logo=Figma&logoColor=black&color=F6C944)
+
+## 🌿 Currently Learning.. :
+![Static Badge](https://img.shields.io/badge/Python-%20515151?style=flat-square&logo=python&logoColor=456D99&color=F7F7F7)
 
 
 
-<p>
-  <h2 align='left'> ✨ Currently Processing.. </h2>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/nextjs-black?style=flat&logo=nextdotjs&logoColor=white&color=black"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=white&color=FF6D1B"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/css-black?style=flat&logo=css3&logoColor=white&color=1B9FFF"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-black?style=flat&logo=expo&logoColor=black&color=D4D5E6"></a>
-        <a href=""><img alt="Python" src="https://img.shields.io/badge/mongoDB-white?logo=MongoDB"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/expo-%238DFFF8?style=flat&logo=react&logoColor=8DFFF8&color=000230"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/wordpress-black?style=flat&logo=wordpress&logoColor=515151&color=white"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white&color=3078C6"></a>
-   <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
-</p>
 
 
 
