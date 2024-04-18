@@ -35,6 +35,7 @@ Hello! I am Takami. I studied Digital Design and Development at the British Colu
 ![Static Badge](https://img.shields.io/badge/Firebase-515151?style=flat-square&logo=firebase&logoColor=F2A93E&color=FFFBF5)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-515151?style=flat-square&logo=postgresql&logoColor=white&color=3D608E)
 ![Static Badge](https://img.shields.io/badge/Passport.js%20-%20515151?style=flat-square&logo=passport&logoColor=50AEE2&color=black)
+![Static Badge](https://img.shields.io/badge/Framer-%20515151?style=flat-square&logo=framer&logoColor=white&color=black)
 
 
 ## 🖥️ Softwares :
