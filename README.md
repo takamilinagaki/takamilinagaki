@@ -3,6 +3,7 @@
 <p>Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media marketing. I am working towards expanding my knowledge to become a full-stack developer.</p>
 
 <br />
+
 <p>
   🌷 My recent projects: <br />
   🌵 I’m currently learning backend
@@ -11,17 +12,8 @@
 <br />
 
 [![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
-
 [![Static Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://www.takamiinagaki.com/)
-
-![Static Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)
-
-
-  <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&color=FEA500&link=https%3A%2F%2Fwww.takamiinagaki.com%2F"/></a>
-  
-  <a href="www.linkedin.com/in/takamiinagaki/">
-  <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black&link=https%3A%2F%2Fwww.instagram.com%2F%2F"/></a>
+[![Static Badge](https://img.shields.io/badge/instagram-F2B4BE?style=for-the-badge&logo=instagram&logoColor=black&color=FABFC8&cacheSeconds=white)](https://www.instagram.com/happy.luuna7/)
 
 
   <br/>
@@ -41,7 +33,6 @@
    <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
 </p>
 
-<br />
 <p>
   <h2 align='left'> 🖥️ Softwares </h2>
     <a href=""><img alt="Python" src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=black&color=FFD43D"></a>
@@ -56,7 +47,7 @@
    <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
 </p>
 
-<br />
+
 
 <p>
   <h2 align='left'> 🎨 Design </h2>
@@ -72,7 +63,7 @@
    <a href=""><img alt="Python" src="https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgresql&logoColor=white&color=1C86C2"></a>
 </p>
 
-<br />
+
 
 <p>
   <h2 align='left'> ✨ Currently Processing.. </h2>
