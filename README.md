@@ -51,7 +51,7 @@ Hello! I am Takami. I studied Digital Design and Development at the British Colu
 ![Static Badge](https://img.shields.io/badge/Adobe%20Creative%20Suite%20-%20515151?style=flat-square&logo=adobecreativecloud&logoColor=white&color=CA3833)
 ![Static Badge](https://img.shields.io/badge/Figma%20-%20515151?style=flat-square&logo=Figma&logoColor=black&color=F6C944)
 
-## 🌿 Currently Learning.. :
+## 🌿 Currently Learning :
 ![Static Badge](https://img.shields.io/badge/Python-%20515151?style=flat-square&logo=python&logoColor=456D99&color=F7F7F7)
 ![Static Badge](https://img.shields.io/badge/Angular-white?style=flat-square&logo=angular&color=CB2B39)
 ![Static Badge](https://img.shields.io/badge/Tailwindcss-white?style=flat-square&logo=tailwindcss&color=black)
