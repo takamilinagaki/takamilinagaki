@@ -36,6 +36,7 @@ Hello! I am Takami. I studied Digital Design and Development at the British Colu
 ![Static Badge](https://img.shields.io/badge/Passport.js%20-%20515151?style=flat-square&logo=passport&logoColor=50AEE2&color=black)
 ![Static Badge](https://img.shields.io/badge/Framer-%20515151?style=flat-square&logo=framer&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/Tailwindcss-white?style=flat-square&logo=tailwindcss&color=black)
 
 
 
@@ -53,7 +54,6 @@ Hello! I am Takami. I studied Digital Design and Development at the British Colu
 ## 🌿 Currently Learning :
 ![Static Badge](https://img.shields.io/badge/Python-%20515151?style=flat-square&logo=python&logoColor=456D99&color=F7F7F7)
 ![Static Badge](https://img.shields.io/badge/Angular-white?style=flat-square&logo=angular&color=CB2B39)
-![Static Badge](https://img.shields.io/badge/Tailwindcss-white?style=flat-square&logo=tailwindcss&color=black)
 
 
 
