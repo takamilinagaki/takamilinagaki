@@ -12,7 +12,7 @@ Hello! I am Takami. I studied Digital Design and Development at the British Colu
 
 [![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
 [![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://www.instagram.com/happy.luuna7)
-[![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://takami-inagaki.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://takami-inagaki.vercel.app/)
 
 <br/>
 
