@@ -1,18 +1,7 @@
-<h1>Hello! I am Takami!! °❀⋆.</h1>
+<h1>Hello!! </h1>
 
 Hello! I am Takami. I studied Digital Design and Development at the British Columbia Institute of Technology. I enjoy creating projects, from designing to implementing, and sharing them with the world through social media. I am working towards expanding my knowledge to become a full-stack developer!
 
-
-<br />
-
-  🌷 My recent projects: <br />
-  🌵 I’m currently learning backend
-
-<br />
-
-[![Static Badge](https://img.shields.io/badge/linkedin-230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%20&color=3375B0)](https://www.linkedin.com/in/takamiinagaki/)
-[![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=FFBFBF&cacheSeconds=white)](https://www.instagram.com/happy.luuna7)
-[![Static Badge](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=white&logoColor=white&labelColor=white&color=F1A93B&cacheSeconds=white)](https://takamiinagaki.com/)
 
 <br/>
 
